@@ -1,0 +1,5 @@
+$ git merge bug-fix-typo
+Updating 74a7539..f0cf999
+Fast-forward
+ README.md | 24 +++++++++++++++++-------
+ 1 file changed, 17 insertions(+), 7 deletions(-)
