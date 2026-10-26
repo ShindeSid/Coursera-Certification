@@ -1,3 +1,6 @@
+$ git checkout main
+Switched to branch 'main'
+
 $ git merge bug-fix-typo
 Updating 74a7539..f0cf999
 Fast-forward
